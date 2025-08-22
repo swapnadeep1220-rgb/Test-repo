@@ -14,8 +14,8 @@ body{
 
 .container{
   background-color: #DEDEDE;
-  height: auto;
-  width: 95%;
+  height: 50em;
+  width: 30em;
   display: inline-block;
   margin: 5vmax;
   padding: 30px 30px 80px 30px;
@@ -56,6 +56,6 @@ body{
   background-color: #ABABAB;
   border-radius: 50px;
   border: none;
-  margin: 50px;
+  margin: 40px;
   color: #000000;
 }
